@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nyn31.github.io/portfolio-version-2.0/](https://nyn31.github.io/portfolio-version-2.0/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React, Java**
 
 - 📫 How to reach me **noyoncse3101@gmail.com**
 
