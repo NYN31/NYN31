@@ -22,8 +22,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ## 📊 GitHub Stats:
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=noyon31&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" width="340" >
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=noyon31&theme=vue-dark&hide_border=false" width="360" >
+  <img src = "https://github-readme-stats.vercel.app/api?username=NOYON31&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" width="340" >
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=NOYON31&theme=vue-dark&hide_border=false" width="360" >
 </p>
 
 
