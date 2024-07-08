@@ -1,8 +1,8 @@
 ## Hi there 👋 I am Noyon!
 - 🔭 I’m currently working @Exabyting ([exabyting.com](https://exabyting.com/))
 - 🌱 I’m currently learning frontend, backend technologies
-- 💬 Ask me about javascript, typescript, reactjs, redux, rtk query, spring boot
-- 📫 How to reach me: email me at "noyoncse3101@gmail.com
+- 💬 Ask me about javascript, typescript, reactjs, redux, rtk query, next js, spring boot
+- 📫 How to reach me: email me at "noyoncse3101@gmail.com"
 
 
 ## 🌐 Socials:
